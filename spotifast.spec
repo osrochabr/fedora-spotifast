@@ -9,7 +9,7 @@
 %endif
 
 Name:           spotifast
-Version:        0.14.1
+Version:        0.14.2
 Release:        %autorelease
 Summary:        Native, fast Spotify client
 License:        MIT
